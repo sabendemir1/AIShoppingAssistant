@@ -1,0 +1,11 @@
+.vs/
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.user
+*.suo
+*.cache
+*.log
+.env
+.env.*
