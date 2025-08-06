@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PricePilot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1794af73e0508026bbc813a282c89f9d0a3d3e5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60a718d694aa696b1fe987359b4659c4551a60be")]
 [assembly: System.Reflection.AssemblyProductAttribute("PricePilot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PricePilot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
